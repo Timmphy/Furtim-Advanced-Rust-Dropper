@@ -1,4 +1,5 @@
-<img width="870" height="454" alt="Header" src="https://github.com/user-attachments/assets/49786b06-a736-4b6c-a8a2-9fd78e47b76a" />
+
+<img width="991" height="495" alt="Header" src="https://github.com/user-attachments/assets/8e65128d-5187-4989-baf2-8cb59901f937" />
 
 # Furtim - Advanced Rust Dropper
 
